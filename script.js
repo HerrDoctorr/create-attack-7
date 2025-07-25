@@ -6,7 +6,6 @@ let currentView = 'all';
 let selectedItem = null;
 let charts = {};
 
-// Load data from API
 async function loadApiData() {
     try {
         showLoading(true);
