@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.ithundxr.createnumismatics.fabric.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "client.MixinGoggleOverlayRenderer",
+    "client.MixinPonderTooltipHandler"
+  ],
+  "mixins": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "plugin": "dev.ithundxr.createnumismatics.fabric.mixin.plugin.NumismaticsMixinPlugin"
+}

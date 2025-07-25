@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "numismatics",
+  "version": "${version}",
+  "name": "Create: Numismatics",
+  "description": "A visually-pleasing and redstone-integrated Create-styled currency mod",
+  "authors": [
+    "IThundxr", "Violet", "Pink", "Slimeist", "Razziel"
+  ],
+  "contact": {
+    "sources": "https://github.com/Layers-of-Railways/CreateNumismatics"
+  },
+  "license": "LGPL",
+  "icon": "assets/numismatics/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.ithundxr.createnumismatics.fabric.NumismaticsImpl"
+    ],
+    "client": [
+      "dev.ithundxr.createnumismatics.fabric.NumismaticsClientImpl"
+    ],
+    "fabric-datagen": [
+      "dev.ithundxr.createnumismatics.fabric.NumismaticsDataFabric"
+    ]
+  },
+  "mixins": [
+    "numismatics.mixins.json",
+    "numismatics-common.mixins.json"
+  ],
+  "depends": {
+    "minecraft": "${minecraft_version}",
+    "fabricloader": ">=${fabric_loader_version}",
+    "fabric-api": ">=${fabric_api_version}",
+    "create": "${create_fabric_version_range}"
+  }
+}

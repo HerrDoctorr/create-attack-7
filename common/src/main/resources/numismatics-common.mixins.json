@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.ithundxr.createnumismatics.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "client.MixinBitmapProvider$Definition",
+    "client.MixinChatScreen"
+  ],
+  "mixins": [
+    "AccessorSimpleContainer",
+    "MixinAbstractContainerMenu",
+    "MixinServerPlayer",
+    "compat.carryon.MixinPickupHandler"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "plugin": "dev.ithundxr.createnumismatics.mixin.plugin.NumismaticsMixinPlugin"
+}
