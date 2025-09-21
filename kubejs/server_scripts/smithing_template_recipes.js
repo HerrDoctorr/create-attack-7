@@ -5,7 +5,7 @@ ServerEvents.recipes((event) => {
             Item.of("minecraft:diamond")
         ],
         results: [
-            Item.of("ca7:polished_diamond")
+            Item.of("create_attack_7:polished_diamond")
         ]
     })
 
@@ -15,14 +15,14 @@ ServerEvents.recipes((event) => {
             Item.of("minecraft:netherrack")
         ],
         results: [
-            Item.of("ca7:netherrack_sheet")
+            Item.of("create_attack_7:netherrack_sheet")
         ]
     })
 
     event.custom({
         type: "create:sequenced_assembly",
         ingredient: [
-            Item.of("ca7:netherrack_sheet")
+            Item.of("create_attack_7:netherrack_sheet")
         ],
         loops: 1,
         results: [
@@ -32,11 +32,11 @@ ServerEvents.recipes((event) => {
             },
             {
                 chance: 12.5,
-                item: "ca7:netherrack_sheet"
+                item: "create_attack_7:netherrack_sheet"
             },
             {
                 chance: 4,
-                item: "ca7:polished_diamond"
+                item: "create_attack_7:polished_diamond"
             },
             {
                 chance: 2.5,
@@ -48,36 +48,36 @@ ServerEvents.recipes((event) => {
             }
         ],
         transitionalItem: {
-            item: "ca7:incomplete_netherite_upgrade_smithing_template"
+            item: "create_attack_7:incomplete_netherite_upgrade_smithing_template"
         },
         sequence: [
             {
                 type: "create:deploying",
                 ingredients: [
-                    Item.of("ca7:incomplete_netherite_upgrade_smithing_template"),
-                    Item.of("ca7:polished_diamond")
+                    Item.of("create_attack_7:incomplete_netherite_upgrade_smithing_template"),
+                    Item.of("create_attack_7:polished_diamond")
                 ],
                 results: [
-                    Item.of("ca7:incomplete_netherite_upgrade_smithing_template")
+                    Item.of("create_attack_7:incomplete_netherite_upgrade_smithing_template")
                 ]
             },
             {
                 type: "create:deploying",
                 ingredients: [
-                    Item.of("ca7:incomplete_netherite_upgrade_smithing_template"),
-                    Item.of("ca7:netherrack_sheet")
+                    Item.of("create_attack_7:incomplete_netherite_upgrade_smithing_template"),
+                    Item.of("create_attack_7:netherrack_sheet")
                 ],
                 results: [
-                    Item.of("ca7:incomplete_netherite_upgrade_smithing_template")
+                    Item.of("create_attack_7:incomplete_netherite_upgrade_smithing_template")
                 ]
             },
             {
                 type: "create:pressing",
                 ingredients: [
-                    Item.of("ca7:incomplete_netherite_upgrade_smithing_template")
+                    Item.of("create_attack_7:incomplete_netherite_upgrade_smithing_template")
                 ],
                 results: [
-                    Item.of("ca7:incomplete_netherite_upgrade_smithing_template")
+                    Item.of("create_attack_7:incomplete_netherite_upgrade_smithing_template")
                 ]
             }
         ]
