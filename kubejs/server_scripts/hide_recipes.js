@@ -1,0 +1,15 @@
+ServerEvents.tags("item", event => {
+    event.add("c:hidden_from_recipe_viewers", "ca7:incomplete_netherite_upgrade_smithing_template")
+
+    event.add("c:hidden_from_recipe_viewers", "create_connected:copycat_block")
+    event.add("c:hidden_from_recipe_viewers", "create_connected:copycat_slab")
+    event.add("c:hidden_from_recipe_viewers", "create_connected:copycat_beam")
+    event.add("c:hidden_from_recipe_viewers", "create_connected:copycat_vertical_step")
+    event.add("c:hidden_from_recipe_viewers", "create_connected:copycat_stairs")
+    event.add("c:hidden_from_recipe_viewers", "create_connected:copycat_fence")
+    event.add("c:hidden_from_recipe_viewers", "create_connected:copycat_fence_gate")
+    event.add("c:hidden_from_recipe_viewers", "create_connected:copycat_wall")
+    event.add("c:hidden_from_recipe_viewers", "create_connected:copycat_board")
+    event.add("c:hidden_from_recipe_viewers", "create_connected:copycat_box")
+    event.add("c:hidden_from_recipe_viewers", "create_connected:copycat_catwalk")
+})
