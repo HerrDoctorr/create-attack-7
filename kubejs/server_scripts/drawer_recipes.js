@@ -87,7 +87,7 @@ ServerEvents.recipes((event) => {
         }
     )
     event.shaped(
-        Item.of("storagedrawers:controller_slave"),
+        Item.of("storagedrawers:controller_io"),
         [
             "III",
             "EDE",
