@@ -1,5 +1,6 @@
 ServerEvents.tags("item", event => {
-    event.add("c:hidden_from_recipe_viewers", "ca7:incomplete_netherite_upgrade_smithing_template")
+    event.add("c:hidden_from_recipe_viewers", "create_attack_7:incomplete_netherite_upgrade_smithing_template")
+    event.add("c:hidden_from_recipe_viewers", "create_attack_7:incomplete_bread_crate")
 
     event.add("c:hidden_from_recipe_viewers", "create_connected:copycat_block")
     event.add("c:hidden_from_recipe_viewers", "create_connected:copycat_slab")

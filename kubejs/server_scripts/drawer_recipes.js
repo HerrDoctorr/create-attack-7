@@ -6,7 +6,7 @@ ServerEvents.recipes((event) => {
     event.remove({ output: "storagedrawers:compacting_half_drawers_3" })
 
     event.remove({ output: "storagedrawers:controller" })
-    event.remove({ output: "storagedrawers:controller_slave" })
+    event.remove({ output: "storagedrawers:controller_io" })
 
     
     event.shaped(
