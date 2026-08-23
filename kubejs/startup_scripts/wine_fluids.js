@@ -1,0 +1,22 @@
+StartupEvents.registry("fluid", (event) => {
+    const juice = (id, color) => event.create(`create_attack_7:${id}`, "thick")
+        .slopeFindDistance(2)
+        .tint(color)
+        .levelDecreasePerBlock(2)
+        .tickRate(30)
+        .type((type) => type
+            .canDrown(true)
+            .density(2000)
+            .viscosity(1500)
+        )
+
+    juice("red_grape_juice", 0x8B1E3F)
+    juice("taiga_red_grape_juice", 0x541838)
+    juice("jungle_red_grape_juice", 0xB51F49)
+    juice("savanna_red_grape_juice", 0x963625)
+    juice("white_grape_juice", 0xDFD070)
+    juice("taiga_white_grape_juice", 0xB5CC7A)
+    juice("jungle_white_grape_juice", 0xC6DC3E)
+    juice("savanna_white_grape_juice", 0xE0A638)
+    juice("apple_juice", 0xE8B038)
+})
