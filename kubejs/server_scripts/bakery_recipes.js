@@ -86,7 +86,7 @@ ServerEvents.recipes((event) => {
     event.custom({
         type: "create:filling",
         ingredients: [{ item: "bakery:jar" }, { type: "neoforge:single", fluid: "create_attack_7:apple_jam", amount: 250 }],
-        results: [{ id: "create_attack_7:apple_jam" }]
+        results: [{ id: "bakery:apple_jam" }]
     });
 
     event.custom({
@@ -128,7 +128,7 @@ ServerEvents.recipes((event) => {
     event.custom({
         type: "create:filling",
         ingredients: [{ item: "bakery:jar" }, { type: "neoforge:single", fluid: "create_attack_7:chocolate_jam", amount: 250 }],
-        results: [{ id: "create_attack_7:chocolate_jam" }]
+        results: [{ id: "bakery:chocolate_jam" }]
     });
     event.custom({
         type: "create:filling",
@@ -173,7 +173,7 @@ ServerEvents.recipes((event) => {
     event.custom({
         type: "create:filling",
         ingredients: [{ item: "bakery:jar" }, { type: "neoforge:single", fluid: "create_attack_7:sweetberry_jam", amount: 250 }],
-        results: [{ id: "create_attack_7:sweetberry_jam" }]
+        results: [{ id: "bakery:sweetberry_jam" }]
     });
 
     event.custom({
