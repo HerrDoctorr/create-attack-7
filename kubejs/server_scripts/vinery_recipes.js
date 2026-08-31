@@ -144,10 +144,4 @@ ServerEvents.recipes((event) => {
         ingredients: [{ item: "vinery:wine_bottle" }, { type: "neoforge:single", fluid: "create_attack_7:taiga_white_grape_juice", amount: 250 }],
         results: [{ id: "vinery:white_taiga_grapejuice" }]
     });
-
-    event.custom({
-        type: "create:mixing",
-        ingredients: [{ tag: "forge:sand/colorless" }, { item: "minecraft:clay_ball" }],
-        results: [{ id: "vinery:loam" }]
-    });
 });
