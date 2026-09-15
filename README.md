@@ -21,8 +21,9 @@ Willkommen im offiziellen GitHub-Repository von **Create Attack 7**! Hier findes
 
 ## 📌 Schnellzugriff & Downloads
 * 🎵 **[Musik-Credits](./CREDITS.md)** – Übersicht aller verwendeten, lizenzfreien Tracks (Kevin MacLeod).
-* 📜 **[Regelwerk](./docs/regeln.md)** – Die offiziellen Regeln für das Projekt und den Server.
-* 🎬 **[Content Creator Pack](./creator-pack/)** – Logos, Grafiken und Assets für YouTube, Twitch & Co.
+* 📜 **[Server-Regelwerk](./docs/regeln.md)** ([PDF-Version](./docs/regeln.pdf)) – Die offiziellen Regeln für das Projekt.
+* 🎬 **[Content Rules](./docs/content-rules.md)** ([PDF-Version](./docs/content-rules.pdf)) – Richtlinien für Creator, Streams & Thumbnails.
+* 📦 **[Content Creator Pack](./content-creation-pack.zip)** – Logos, Grafiken und Assets als ZIP zum Download.
 
 ---
 
