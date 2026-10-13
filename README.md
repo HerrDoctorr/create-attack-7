@@ -30,7 +30,7 @@ Willkommen im offiziellen GitHub-Repository von **Create Attack 7**! Hier findes
 ## ℹ️ Über das Modpack
 Create Attack ist ein auf **Minecraft Forge 1.21.1** basierendes Modpack mit starkem Fokus auf Automatisierung, Technik (hauptsächlich rund um *Create*) und ein rundes, immersives Spielerlebnis.
 
-* **Status:** In aktiver Entwicklung (Pre-Release)
+* **Status:** In aktiver Entwicklung (Release: 19.10.2026)
 * **Discord:** [Hier dem Discord beitreten](https://discord.gg/qYP7YB7Puv)
 
 ---
