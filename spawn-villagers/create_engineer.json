@@ -1,0 +1,192 @@
+{
+  "category": "Create Engineer",
+  "sells": [
+    {
+      "id": "create:andesite_alloy",
+      "count": 8,
+      "cost": 128
+    },
+    {
+      "id": "create:cogwheel",
+      "count": 4,
+      "cost": 128
+    },
+    {
+      "id": "create:large_cogwheel",
+      "count": 4,
+      "cost": 128
+    },
+    {
+      "id": "create:shaft",
+      "count": 8,
+      "cost": 128
+    },
+    {
+      "id": "create:gearbox",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "create:basin",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "create:depot",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "create:encased_fan",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "create:mechanical_bearing",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "create:mechanical_drill",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "create:mechanical_saw",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "create:mechanical_harvester",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "create:mechanical_plough",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "create:mechanical_mixer",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "create:mechanical_press",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "create:fluid_pipe",
+      "count": 8,
+      "cost": 128
+    },
+    {
+      "id": "create:fluid_tank",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "create:wrench",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "create:precision_mechanism",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "create:deployer",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "create:mechanical_pump",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "create:brass_funnel",
+      "count": 4,
+      "cost": 256
+    },
+    {
+      "id": "create:brass_tunnel",
+      "count": 4,
+      "cost": 256
+    },
+    {
+      "id": "create:hand_crank",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "create:steam_engine",
+      "count": 1,
+      "cost": 512
+    }
+  ],
+  "buys": [
+    {
+      "id": "create:brass_ingot",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "create:zinc_ingot",
+      "count": 128,
+      "cost": 2
+    },
+    {
+      "id": "createaddition:electrum_ingot",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "createbigcannons:bronze_ingot",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "createbigcannons:cast_iron_ingot",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "createbigcannons:steel_ingot",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "createdeco:industrial_iron_ingot",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "tfmg:aluminum_ingot",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "tfmg:constantan_ingot",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "tfmg:lead_ingot",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "tfmg:nickel_ingot",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "tfmg:steel_ingot",
+      "count": 128,
+      "cost": 4
+    }
+  ]
+}

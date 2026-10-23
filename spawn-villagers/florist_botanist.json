@@ -1,0 +1,277 @@
+{
+  "category": "Florist / Botanist",
+  "sells": [
+    {
+      "id": "minecraft:acacia_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "minecraft:birch_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "minecraft:cherry_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "minecraft:dark_oak_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "minecraft:jungle_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "minecraft:mangrove_propagule",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:oak_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "minecraft:spruce_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "bloomingnature:aspen_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "bloomingnature:baobab_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "bloomingnature:blooming_oak_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "bloomingnature:chestnut_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "bloomingnature:cypress_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "bloomingnature:ebony_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "bloomingnature:fan_palm_sprout",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "bloomingnature:fir_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "bloomingnature:larch_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "bloomingnature:swamp_cypress_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "bloomingnature:swamp_oak_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "quark:ancient_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "quark:blue_blossom_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "quark:lavender_blossom_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "quark:orange_blossom_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "quark:red_blossom_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "quark:yellow_blossom_sapling",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "minecraft:azalea",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:flowering_azalea",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:blue_orchid",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:cornflower",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:lily_of_the_valley",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:lily_pad",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:moss_block",
+      "count": 16,
+      "cost": 128
+    },
+    {
+      "id": "minecraft:moss_carpet",
+      "count": 16,
+      "cost": 128
+    },
+    {
+      "id": "minecraft:pink_petals",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:spore_blossom",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:sunflower",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:torchflower",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "bloomingnature:flowering_lily_pad",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "bloomingnature:white_orchid",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:allium",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:azure_bluet",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:dandelion",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:lilac",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:orange_tulip",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:oxeye_daisy",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:peony",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:pink_tulip",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:poppy",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:red_tulip",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:rose_bush",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:white_tulip",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:pitcher_plant",
+      "count": 8,
+      "cost": 128
+    },
+    {
+      "id": "minecraft:wither_rose",
+      "count": 8,
+      "cost": 512
+    }
+  ],
+  "buys": [
+    {
+      "id": "bloomingnature:wild_sunflower",
+      "count": 128,
+      "cost": 4
+    }
+  ]
+}

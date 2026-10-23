@@ -1,0 +1,256 @@
+{
+  "category": "Baker / Confectioner",
+  "sells": [
+    {
+      "id": "bakery:apple_cupcake",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "bakery:apple_jam",
+      "count": 1,
+      "cost": 48
+    },
+    {
+      "id": "bakery:apple_pie",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "bakery:apple_pie_slice",
+      "count": 4,
+      "cost": 128
+    },
+    {
+      "id": "bakery:baguette",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "bakery:baked_sweet_dough",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "bakery:braided_bread",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "bakery:bread",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "bakery:bread_with_jam",
+      "count": 1,
+      "cost": 48
+    },
+    {
+      "id": "bakery:bun",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "bakery:bundt_cake",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "bakery:bundt_cake_slice",
+      "count": 4,
+      "cost": 128
+    },
+    {
+      "id": "bakery:chocolate_box",
+      "count": 4,
+      "cost": 64
+    },
+    {
+      "id": "bakery:croissant",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "bakery:chocolate_cake",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "bakery:chocolate_cake_slice",
+      "count": 4,
+      "cost": 128
+    },
+    {
+      "id": "bakery:chocolate_gateau",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "bakery:chocolate_gateau_slice",
+      "count": 4,
+      "cost": 128
+    },
+    {
+      "id": "bakery:chocolate_glazed_cookie",
+      "count": 4,
+      "cost": 64
+    },
+    {
+      "id": "bakery:chocolate_jam",
+      "count": 1,
+      "cost": 48
+    },
+    {
+      "id": "bakery:chocolate_tart",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "bakery:chocolate_tart_slice",
+      "count": 4,
+      "cost": 128
+    },
+    {
+      "id": "bakery:chocolate_truffle",
+      "count": 4,
+      "cost": 64
+    },
+    {
+      "id": "bakery:cornet",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "bakery:crusty_bread",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "bakery:glowberry_jam",
+      "count": 1,
+      "cost": 48
+    },
+    {
+      "id": "bakery:glowberry_pie_slice",
+      "count": 4,
+      "cost": 128
+    },
+    {
+      "id": "bakery:glowberry_tart",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "bakery:grilled_bacon_sandwich",
+      "count": 1,
+      "cost": 96
+    },
+    {
+      "id": "bakery:grilled_salmon_sandwich",
+      "count": 1,
+      "cost": 96
+    },
+    {
+      "id": "bakery:jam_roll",
+      "count": 1,
+      "cost": 48
+    },
+    {
+      "id": "bakery:linzer_tart",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "bakery:linzer_tart_slice",
+      "count": 4,
+      "cost": 128
+    },
+    {
+      "id": "bakery:misslilitu_biscuit",
+      "count": 4,
+      "cost": 64
+    },
+    {
+      "id": "bakery:pudding",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "bakery:pudding_slice",
+      "count": 4,
+      "cost": 128
+    },
+    {
+      "id": "bakery:sandwich",
+      "count": 1,
+      "cost": 96
+    },
+    {
+      "id": "bakery:strawberry_cake",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "bakery:strawberry_cake_slice",
+      "count": 4,
+      "cost": 128
+    },
+    {
+      "id": "bakery:strawberry_cupcake",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "bakery:strawberry_glazed_cookie",
+      "count": 4,
+      "cost": 64
+    },
+    {
+      "id": "bakery:strawberry_jam",
+      "count": 1,
+      "cost": 48
+    },
+    {
+      "id": "bakery:sweet_dough",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "bakery:sweetberry_cake",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "bakery:sweetberry_cake_slice",
+      "count": 4,
+      "cost": 128
+    },
+    {
+      "id": "bakery:sweetberry_cupcake",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "bakery:sweetberry_glazed_cookie",
+      "count": 4,
+      "cost": 64
+    },
+    {
+      "id": "bakery:sweetberry_jam",
+      "count": 1,
+      "cost": 48
+    },
+    {
+      "id": "bakery:toast",
+      "count": 8,
+      "cost": 64
+    },
+    {
+      "id": "bakery:waffle",
+      "count": 1,
+      "cost": 128
+    }
+  ],
+  "buys": []
+}

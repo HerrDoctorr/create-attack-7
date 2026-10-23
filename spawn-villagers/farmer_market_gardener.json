@@ -1,0 +1,227 @@
+{
+  "category": "Farmer / Market Gardener",
+  "sells": [
+    {
+      "id": "farm_and_charm:barley_seeds",
+      "count": 16,
+      "cost": 64
+    },
+    {
+      "id": "farm_and_charm:corn_bag",
+      "count": 8,
+      "cost": 128
+    },
+    {
+      "id": "farm_and_charm:lettuce_bag",
+      "count": 8,
+      "cost": 128
+    },
+    {
+      "id": "farm_and_charm:lettuce_seeds",
+      "count": 16,
+      "cost": 64
+    },
+    {
+      "id": "farm_and_charm:oat_seeds",
+      "count": 16,
+      "cost": 64
+    },
+    {
+      "id": "farm_and_charm:onion_bag",
+      "count": 8,
+      "cost": 128
+    },
+    {
+      "id": "farm_and_charm:strawberry_bag",
+      "count": 8,
+      "cost": 128
+    },
+    {
+      "id": "farm_and_charm:strawberry_seeds",
+      "count": 16,
+      "cost": 64
+    },
+    {
+      "id": "farm_and_charm:tomato_bag",
+      "count": 8,
+      "cost": 128
+    },
+    {
+      "id": "farm_and_charm:tomato_seeds",
+      "count": 16,
+      "cost": 64
+    },
+    {
+      "id": "farm_and_charm:compost",
+      "count": 1,
+      "cost": 64
+    },
+    {
+      "id": "farm_and_charm:fertilized_farmland",
+      "count": 16,
+      "cost": 128
+    },
+    {
+      "id": "farm_and_charm:fertilized_soil",
+      "count": 16,
+      "cost": 128
+    },
+    {
+      "id": "farm_and_charm:fertilizer",
+      "count": 16,
+      "cost": 64
+    },
+    {
+      "id": "farm_and_charm:scarecrow",
+      "count": 16,
+      "cost": 64
+    },
+    {
+      "id": "farm_and_charm:water_sprinkler",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "farm_and_charm:silo_copper",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "farm_and_charm:silo_wood",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "minecraft:wheat_seeds",
+      "count": 16,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:beetroot_seeds",
+      "count": 16,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:melon_seeds",
+      "count": 16,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:pumpkin_seeds",
+      "count": 16,
+      "cost": 64
+    }
+  ],
+  "buys": [
+    {
+      "id": "farm_and_charm:barley",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "farm_and_charm:corn",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "farm_and_charm:lettuce",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "farm_and_charm:oat",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "farm_and_charm:onion",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "farm_and_charm:strawberry",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "farm_and_charm:tomato",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "farm_and_charm:wild_barley",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "farm_and_charm:wild_corn",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "farm_and_charm:wild_lettuce",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "farm_and_charm:wild_oat",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "farm_and_charm:wild_onions",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "farm_and_charm:wild_strawberries",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "farm_and_charm:wild_tomatoes",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "minecraft:wheat",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "minecraft:carrot",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "minecraft:potato",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "minecraft:beetroot",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "minecraft:sugar_cane",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "minecraft:cactus",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "minecraft:bamboo",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "minecraft:kelp",
+      "count": 128,
+      "cost": 4
+    }
+  ]
+}

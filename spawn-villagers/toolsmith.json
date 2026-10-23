@@ -1,0 +1,76 @@
+{
+  "category": "Toolsmith",
+  "sells": [
+    {
+      "id": "minecraft:golden_axe",
+      "count": 1,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:golden_pickaxe",
+      "count": 1,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:golden_shovel",
+      "count": 1,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:golden_hoe",
+      "count": 1,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:shears",
+      "count": 1,
+      "cost": 96
+    },
+    {
+      "id": "minecraft:flint_and_steel",
+      "count": 1,
+      "cost": 96
+    },
+    {
+      "id": "minecraft:bucket",
+      "count": 1,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:water_bucket",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "minecraft:lava_bucket",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "farm_and_charm:pitchfork",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "farm_and_charm:plow",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "farm_and_charm:seeder",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "farmersdelight:flint_knife",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "farmersdelight:golden_knife",
+      "count": 1,
+      "cost": 64
+    }
+  ],
+  "buys": []
+}

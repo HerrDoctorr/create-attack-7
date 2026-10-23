@@ -1,0 +1,66 @@
+{
+  "category": "Photographer",
+  "sells": [
+    {
+      "id": "exposure:camera",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "exposure:camera_stand",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "exposure:black_and_white_film",
+      "count": 4,
+      "cost": 128
+    },
+    {
+      "id": "exposure:color_film",
+      "count": 4,
+      "cost": 128
+    },
+    {
+      "id": "exposure:high_sensitivity_black_and_white_film",
+      "count": 4,
+      "cost": 192
+    },
+    {
+      "id": "exposure:high_sensitivity_color_film",
+      "count": 4,
+      "cost": 192
+    },
+    {
+      "id": "exposure:chromatic_sheet",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "exposure:photograph_frame",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "exposure:glass_photograph_frame",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "exposure:album",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "exposure:lightroom",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "exposure:interplanar_projector",
+      "count": 1,
+      "cost": 1024
+    }
+  ],
+  "buys": []
+}

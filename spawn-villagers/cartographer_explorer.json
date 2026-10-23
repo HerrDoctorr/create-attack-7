@@ -1,0 +1,197 @@
+{
+  "category": "Cartographer / Archaeologist",
+  "sells": [
+    {
+      "id": "minecraft:map",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "minecraft:filled_map",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "minecraft:compass",
+      "count": 1,
+      "cost": 96
+    },
+    {
+      "id": "minecraft:recovery_compass",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "minecraft:spyglass",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "minecraft:nautilus_shell",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "minecraft:heart_of_the_sea",
+      "count": 1,
+      "cost": 768
+    },
+    {
+      "id": "minecraft:echo_shard",
+      "count": 1,
+      "cost": 768
+    },
+    {
+      "id": "minecraft:amethyst_shard",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "minecraft:shulker_shell",
+      "count": 1,
+      "cost": 1024
+    },
+    {
+      "id": "minecraft:ender_pearl",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "minecraft:ender_eye",
+      "count": 1,
+      "cost": 768
+    },
+    {
+      "id": "minecraft:brush",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "minecraft:sniffer_egg",
+      "count": 1,
+      "cost": 1024
+    }
+  ],
+  "buys": [
+    {
+      "id": "minecraft:angler_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:archer_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:arms_up_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:blade_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:brewer_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:burn_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:danger_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:explorer_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:flow_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:friend_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:guster_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:heart_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:heartbreak_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:howl_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:miner_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:mourner_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:plenty_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:prize_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:scrape_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:sheaf_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:shelter_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:skull_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:snort_pottery_sherd",
+      "count": 8,
+      "cost": 48
+    },
+    {
+      "id": "minecraft:paper",
+      "count": 128,
+      "cost": 2
+    }
+  ]
+}

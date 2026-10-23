@@ -1,0 +1,251 @@
+{
+  "category": "Tracklayer / Railway Conductor",
+  "sells": [
+    {
+      "id": "railways:track_oak",
+      "count": 16,
+      "cost": 256
+    },
+    {
+      "id": "railways:track_oak_narrow",
+      "count": 16,
+      "cost": 320
+    },
+    {
+      "id": "railways:track_oak_wide",
+      "count": 16,
+      "cost": 384
+    },
+    {
+      "id": "railways:track_birch",
+      "count": 16,
+      "cost": 256
+    },
+    {
+      "id": "railways:track_birch_narrow",
+      "count": 16,
+      "cost": 320
+    },
+    {
+      "id": "railways:track_birch_wide",
+      "count": 16,
+      "cost": 384
+    },
+    {
+      "id": "railways:track_spruce",
+      "count": 16,
+      "cost": 256
+    },
+    {
+      "id": "railways:track_spruce_narrow",
+      "count": 16,
+      "cost": 320
+    },
+    {
+      "id": "railways:track_spruce_wide",
+      "count": 16,
+      "cost": 384
+    },
+    {
+      "id": "railways:track_jungle",
+      "count": 16,
+      "cost": 256
+    },
+    {
+      "id": "railways:track_jungle_narrow",
+      "count": 16,
+      "cost": 320
+    },
+    {
+      "id": "railways:track_jungle_wide",
+      "count": 16,
+      "cost": 384
+    },
+    {
+      "id": "railways:track_acacia",
+      "count": 16,
+      "cost": 256
+    },
+    {
+      "id": "railways:track_acacia_narrow",
+      "count": 16,
+      "cost": 320
+    },
+    {
+      "id": "railways:track_acacia_wide",
+      "count": 16,
+      "cost": 384
+    },
+    {
+      "id": "railways:track_dark_oak",
+      "count": 16,
+      "cost": 256
+    },
+    {
+      "id": "railways:track_dark_oak_narrow",
+      "count": 16,
+      "cost": 320
+    },
+    {
+      "id": "railways:track_dark_oak_wide",
+      "count": 16,
+      "cost": 384
+    },
+    {
+      "id": "railways:track_mangrove",
+      "count": 16,
+      "cost": 256
+    },
+    {
+      "id": "railways:track_mangrove_narrow",
+      "count": 16,
+      "cost": 320
+    },
+    {
+      "id": "railways:track_mangrove_wide",
+      "count": 16,
+      "cost": 384
+    },
+    {
+      "id": "railways:track_cherry",
+      "count": 16,
+      "cost": 256
+    },
+    {
+      "id": "railways:track_cherry_narrow",
+      "count": 16,
+      "cost": 320
+    },
+    {
+      "id": "railways:track_cherry_wide",
+      "count": 16,
+      "cost": 384
+    },
+    {
+      "id": "railways:track_bamboo",
+      "count": 16,
+      "cost": 256
+    },
+    {
+      "id": "railways:track_bamboo_narrow",
+      "count": 16,
+      "cost": 320
+    },
+    {
+      "id": "railways:track_bamboo_wide",
+      "count": 16,
+      "cost": 384
+    },
+    {
+      "id": "railways:track_switch_andesite",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "railways:track_switch_brass",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "railways:semaphore",
+      "count": 4,
+      "cost": 512
+    },
+    {
+      "id": "railways:track_coupler",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "railways:knuckle_coupler",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "railways:screwlink_coupler",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "railways:split_knuckle_coupler",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "railways:benchcart",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "railways:portable_fuel_interface",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "railways:conductor_whistle",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "create:track_signal",
+      "count": 4,
+      "cost": 512
+    },
+    {
+      "id": "create:track_station",
+      "count": 2,
+      "cost": 512
+    },
+    {
+      "id": "create:controller_rail",
+      "count": 6,
+      "cost": 512
+    },
+    {
+      "id": "create:track_observer",
+      "count": 2,
+      "cost": 512
+    },
+    {
+      "id": "create:analog_lever",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "create:redstone_contact",
+      "count": 2,
+      "cost": 128
+    },
+    {
+      "id": "create:redstone_link",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "create:stockpile_switch",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "create:railway_casing",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "create:controls",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "create:contraption_controls",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "railways:track_monorail",
+      "count": 16,
+      "cost": 512
+    }
+  ],
+  "buys": []
+}

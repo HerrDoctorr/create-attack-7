@@ -1,0 +1,151 @@
+{
+  "category": "Artillery Engineer / Cannonwright",
+  "sells": [
+    {
+      "id": "createbigcannons:cannon_mount_extension",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "createbigcannons:cannon_builder",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "createbigcannons:cannon_welder",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "createbigcannons:cannon_drill",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "createbigcannons:ram_rod",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "createbigcannons:cannon_loader",
+      "count": 1,
+      "cost": 384
+    },
+    {
+      "id": "createbigcannons:gas_mask",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "createbigcannons:cannon_mount",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "createbigcannons:fixed_cannon_mount",
+      "count": 1,
+      "cost": 320
+    },
+    {
+      "id": "createbigcannons:cannon_carriage",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "createbigcannons:cast_iron_cannon_barrel",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "createbigcannons:bronze_cannon_barrel",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "createbigcannons:steel_cannon_barrel",
+      "count": 1,
+      "cost": 768
+    },
+    {
+      "id": "createbigcannons:nethersteel_cannon_barrel",
+      "count": 1,
+      "cost": 1024
+    },
+    {
+      "id": "createbigcannons:cast_iron_cannon_chamber",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "createbigcannons:steel_cannon_chamber",
+      "count": 1,
+      "cost": 768
+    },
+    {
+      "id": "createbigcannons:nethersteel_cannon_chamber",
+      "count": 1,
+      "cost": 1024
+    },
+    {
+      "id": "createbigcannons:cast_iron_sliding_breech",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "createbigcannons:steel_sliding_breech",
+      "count": 1,
+      "cost": 768
+    },
+    {
+      "id": "createbigcannons:nethersteel_screw_breech",
+      "count": 1,
+      "cost": 1024
+    },
+    {
+      "id": "createbigcannons:solid_shot",
+      "count": 16,
+      "cost": 128
+    },
+    {
+      "id": "createbigcannons:smoke_shell",
+      "count": 8,
+      "cost": 192
+    },
+    {
+      "id": "createbigcannons:he_shell",
+      "count": 8,
+      "cost": 256
+    },
+    {
+      "id": "createbigcannons:ap_shell",
+      "count": 8,
+      "cost": 384
+    },
+    {
+      "id": "createbigcannons:drop_mortar_shell",
+      "count": 8,
+      "cost": 256
+    },
+    {
+      "id": "createbigcannons:autocannon_cartridge",
+      "count": 16,
+      "cost": 128
+    },
+    {
+      "id": "createbigcannons:flak_autocannon_round",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createbigcannons:powder_charge",
+      "count": 16,
+      "cost": 128
+    },
+    {
+      "id": "createbigcannons:proximity_fuze",
+      "count": 8,
+      "cost": 192
+    }
+  ],
+  "buys": []
+}

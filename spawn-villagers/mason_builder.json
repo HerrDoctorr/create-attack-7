@@ -1,0 +1,172 @@
+{
+  "category": "Mason / Brickmaker",
+  "sells": [
+    {
+      "id": "createdeco:blue_bricks",
+      "count": 16,
+      "cost": 128
+    },
+    {
+      "id": "createdeco:blue_brick_slab",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createdeco:blue_brick_stairs",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createdeco:blue_brick_wall",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createdeco:dean_bricks",
+      "count": 16,
+      "cost": 128
+    },
+    {
+      "id": "createdeco:dean_brick_slab",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createdeco:dean_brick_stairs",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createdeco:dean_brick_wall",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createdeco:dusk_bricks",
+      "count": 16,
+      "cost": 128
+    },
+    {
+      "id": "createdeco:dusk_brick_slab",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createdeco:dusk_brick_stairs",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createdeco:dusk_brick_wall",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createdeco:pearl_bricks",
+      "count": 16,
+      "cost": 128
+    },
+    {
+      "id": "createdeco:pearl_brick_slab",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createdeco:pearl_brick_stairs",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createdeco:pearl_brick_wall",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createdeco:scarlet_bricks",
+      "count": 16,
+      "cost": 128
+    },
+    {
+      "id": "createdeco:scarlet_brick_slab",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createdeco:scarlet_brick_stairs",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createdeco:scarlet_brick_wall",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createdeco:umber_bricks",
+      "count": 16,
+      "cost": 128
+    },
+    {
+      "id": "createdeco:umber_brick_slab",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createdeco:umber_brick_stairs",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createdeco:umber_brick_wall",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createdeco:verdant_bricks",
+      "count": 16,
+      "cost": 128
+    },
+    {
+      "id": "createdeco:verdant_brick_slab",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createdeco:verdant_brick_stairs",
+      "count": 16,
+      "cost": 192
+    },
+    {
+      "id": "createdeco:verdant_brick_wall",
+      "count": 16,
+      "cost": 192
+    }
+  ],
+  "buys": [
+    {
+      "id": "minecraft:clay_ball",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "minecraft:sand",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "minecraft:gravel",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "minecraft:flint",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "minecraft:cobblestone",
+      "count": 128,
+      "cost": 4
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "category": "Musician",
+  "sells": [
+    {
+      "id": "minecraft:jukebox",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "minecraft:music_disc_11",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "minecraft:music_disc_13",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "minecraft:music_disc_5",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "minecraft:music_disc_blocks",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "minecraft:music_disc_cat",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "minecraft:music_disc_chirp",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "minecraft:music_disc_creator",
+      "count": 1,
+      "cost": 1024
+    },
+    {
+      "id": "minecraft:music_disc_creator_music_box",
+      "count": 1,
+      "cost": 1024
+    },
+    {
+      "id": "minecraft:music_disc_far",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "minecraft:music_disc_mall",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "minecraft:music_disc_mellohi",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "minecraft:music_disc_otherside",
+      "count": 1,
+      "cost": 1024
+    },
+    {
+      "id": "minecraft:music_disc_pigstep",
+      "count": 1,
+      "cost": 1024
+    },
+    {
+      "id": "minecraft:music_disc_precipice",
+      "count": 1,
+      "cost": 1024
+    },
+    {
+      "id": "minecraft:music_disc_relic",
+      "count": 1,
+      "cost": 1024
+    },
+    {
+      "id": "minecraft:music_disc_stal",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "minecraft:music_disc_strad",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "minecraft:music_disc_wait",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "minecraft:music_disc_ward",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "supplementaries:music_disc_heave_ho",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "beachparty:music_disc_beachparty",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "beachparty:music_disc_caribbean_beach",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "beachparty:music_disc_pridelands",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "beachparty:music_disc_vocalista",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "beachparty:music_disc_wild_veins",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "quark:music_disc_chatter",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "quark:music_disc_clock",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "quark:music_disc_crickets",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "quark:music_disc_drips",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "quark:music_disc_endermosh",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "quark:music_disc_fire",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "quark:music_disc_ocean",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "quark:music_disc_rain",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "quark:music_disc_wind",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "beachparty:radio",
+      "count": 1,
+      "cost": 256
+    }
+  ],
+  "buys": []
+}

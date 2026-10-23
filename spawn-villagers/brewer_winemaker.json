@@ -1,0 +1,166 @@
+{
+  "category": "Brewmaster / Beverage Merchant",
+  "sells": [
+    {
+      "id": "brewery:beer_barley",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "brewery:beer_hops",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "brewery:beer_mug",
+      "count": 1,
+      "cost": 64
+    },
+    {
+      "id": "brewery:beer_nettle",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "brewery:beer_oat",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "brewery:beer_wheat",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "brewery:dark_brew",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "brewery:whiskey_ak",
+      "count": 1,
+      "cost": 384
+    },
+    {
+      "id": "brewery:whiskey_carrasconlabel",
+      "count": 1,
+      "cost": 384
+    },
+    {
+      "id": "brewery:whiskey_cristelwalker",
+      "count": 1,
+      "cost": 384
+    },
+    {
+      "id": "brewery:whiskey_highland_hearth",
+      "count": 1,
+      "cost": 384
+    },
+    {
+      "id": "brewery:whiskey_jamesons_malt",
+      "count": 1,
+      "cost": 384
+    },
+    {
+      "id": "brewery:whiskey_jojannik",
+      "count": 1,
+      "cost": 384
+    },
+    {
+      "id": "brewery:whiskey_lilitusinglemalt",
+      "count": 1,
+      "cost": 384
+    },
+    {
+      "id": "brewery:whiskey_maggoallan",
+      "count": 1,
+      "cost": 384
+    },
+    {
+      "id": "brewery:whiskey_smokey_reverie",
+      "count": 1,
+      "cost": 384
+    },
+    {
+      "id": "herbalbrews:black_tea",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "herbalbrews:coffee",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "herbalbrews:green_tea",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "herbalbrews:hibiscus_tea",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "herbalbrews:lavender_tea",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "herbalbrews:oolong_tea",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "herbalbrews:rooibos_tea",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "herbalbrews:tea_kettle",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "herbalbrews:yerba_mate_tea",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "vinery:apple_cider",
+      "count": 1,
+      "cost": 384
+    },
+    {
+      "id": "vinery:apple_juice",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "vinery:mead",
+      "count": 1,
+      "cost": 384
+    },
+    {
+      "id": "vinery:red_grapejuice",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "vinery:red_wine",
+      "count": 1,
+      "cost": 384
+    },
+    {
+      "id": "vinery:white_grapejuice",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "vinery:wine_bottle",
+      "count": 1,
+      "cost": 192
+    }
+  ],
+  "buys": []
+}

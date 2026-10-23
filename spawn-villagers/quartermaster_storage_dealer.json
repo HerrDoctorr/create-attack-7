@@ -1,0 +1,141 @@
+{
+  "category": "Quartermaster / Storage Dealer",
+  "sells": [
+    {
+      "id": "sophisticatedbackpacks:backpack",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "sophisticatedbackpacks:copper_backpack",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "sophisticatedbackpacks:iron_backpack",
+      "count": 1,
+      "cost": 384
+    },
+    {
+      "id": "sophisticatedbackpacks:gold_backpack",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "sophisticatedbackpacks:pickup_upgrade",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "sophisticatedbackpacks:magnet_upgrade",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "sophisticatedbackpacks:feeding_upgrade",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "sophisticatedbackpacks:stack_upgrade_starter_tier",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "refinedstorage:basic_processor",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "refinedstorage:improved_processor",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "refinedstorage:1k_storage_disk",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "refinedstorage:4k_storage_disk",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "refinedstorage:16k_storage_disk",
+      "count": 1,
+      "cost": 1024
+    },
+    {
+      "id": "refinedstorage:64k_storage_disk",
+      "count": 1,
+      "cost": 2048
+    },
+    {
+      "id": "refinedstorage:controller",
+      "count": 1,
+      "cost": 1024
+    },
+    {
+      "id": "refinedstorage:grid",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "refinedstorage:crafting_grid",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "refinedstorage:portable_grid",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "refinedstorage:wireless_grid",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "create:item_vault",
+      "count": 1,
+      "cost": 32
+    },
+    {
+      "id": "create:linked_controller",
+      "count": 1,
+      "cost": 1024
+    },
+    {
+      "id": "create:portable_storage_interface",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "refinedstorage:advanced_processor",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "refinedstorage:disk_drive",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "refinedstorage:pattern_grid",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "refinedstorage:network_receiver",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "refinedstorage:network_transmitter",
+      "count": 1,
+      "cost": 512
+    }
+  ],
+  "buys": []
+}

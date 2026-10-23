@@ -1,0 +1,167 @@
+{
+  "category": "Armorer / Weaponsmith",
+  "sells": [
+    {
+      "id": "minecraft:leather_helmet",
+      "count": 1,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:leather_chestplate",
+      "count": 1,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:leather_leggings",
+      "count": 1,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:leather_boots",
+      "count": 1,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:chainmail_helmet",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "minecraft:chainmail_chestplate",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "minecraft:chainmail_leggings",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "minecraft:chainmail_boots",
+      "count": 1,
+      "cost": 256
+    },
+    {
+      "id": "minecraft:golden_helmet",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "minecraft:golden_chestplate",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "minecraft:golden_leggings",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "minecraft:golden_boots",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "create_sa:brass_helmet",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "create_sa:brass_chestplate",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "create_sa:brass_leggings",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "create_sa:brass_boots",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "minecraft:golden_sword",
+      "count": 1,
+      "cost": 128
+    },
+    {
+      "id": "create_sa:brass_sword",
+      "count": 1,
+      "cost": 512
+    },
+    {
+      "id": "create_sa:rose_quartz_sword",
+      "count": 1,
+      "cost": 1024
+    },
+    {
+      "id": "minecraft:bow",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "minecraft:crossbow",
+      "count": 1,
+      "cost": 192
+    },
+    {
+      "id": "minecraft:arrow",
+      "count": 16,
+      "cost": 64
+    },
+    {
+      "id": "minecraft:shield",
+      "count": 1,
+      "cost": 128
+    }
+  ],
+  "buys": [
+    {
+      "id": "minecraft:iron_helmet",
+      "count": 1,
+      "cost": 32
+    },
+    {
+      "id": "minecraft:iron_chestplate",
+      "count": 1,
+      "cost": 32
+    },
+    {
+      "id": "minecraft:iron_leggings",
+      "count": 1,
+      "cost": 32
+    },
+    {
+      "id": "minecraft:iron_boots",
+      "count": 1,
+      "cost": 32
+    },
+    {
+      "id": "minecraft:iron_sword",
+      "count": 1,
+      "cost": 32
+    },
+    {
+      "id": "minecraft:iron_ingot",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "minecraft:gold_ingot",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "minecraft:copper_ingot",
+      "count": 128,
+      "cost": 4
+    },
+    {
+      "id": "minecraft:diamond",
+      "count": 64,
+      "cost": 32
+    }
+  ]
+}
